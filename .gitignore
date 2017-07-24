@@ -1,4 +1,4 @@
-.idea/*.*
-.pyc
-.xml
-.log
+.idea/*
+*.pyc
+*.xml
+*.log
